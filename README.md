@@ -1,4 +1,4 @@
-[![MasterHead](https://www.learntek.org/blog/wp-content/uploads/2018/05/python-940x444.png)](https://A-S-A-D-ULLAH.io)
+[![MasterHead](https://i0.wp.com/everyday.codes/wp-content/uploads/2019/12/newpythonlogo.png?fit=1024%2C500&ssl=1)](https://A-S-A-D-ULLAH.io)
 
 <h1 align="center">Hi 👋, I'm Asad Ullah</h1>
 <h3 align="center">A passionate frontend developer | Python Programmer from Pakistan</h3>
