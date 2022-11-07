@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **NLP**
 
-- 💬 Ask me about **Machine Learning , Data science , Deep Learning , Python**
+- 💬 Ask me about **Machine Learning , Deep Learning , Computer Vision , Python**
 
 - 📫 How to reach me **asad303010@gmail.com**
 
